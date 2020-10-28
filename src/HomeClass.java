@@ -1,4 +1,4 @@
-package com.hingebridge.devops;
+//package com.hingebridge.devops;
 
 public class HomeClass
 {
@@ -8,5 +8,6 @@ public class HomeClass
 		System.out.println("Hello world!");
 		
 		System.out.println("Application End!");
+		System.out.println("My name is Chinedu");
 	}
 }

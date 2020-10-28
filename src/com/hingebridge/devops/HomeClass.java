@@ -6,5 +6,7 @@ public class HomeClass
 	{
 		System.out.println("Welcome to: ");
 		System.out.println("Hello world!");
+		
+		System.out.println("Application End!");
 	}
 }
